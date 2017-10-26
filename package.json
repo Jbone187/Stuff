@@ -5,7 +5,8 @@
   "dependencies": {
     "fs.extra": "^1.3.2",
     "node-notifier": "^5.1.2",
-    "fsmonitor": "^0.2.4",
+    "winston": "^2.3.1",
+    "fsmonitor": "^0.2.4"
   },
   "devDependencies": {},
   "scripts": {
