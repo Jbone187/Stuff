@@ -22,7 +22,7 @@ fsmonitor.watch('\wtest', null, function(change) {
 //Run Associated Module
     Not();
  
-              //Copy Files
+              //Copy Files to associated folder "Still Working on This"
    /* fs.copyRecursive('/nodetest/wtest', '/nodetest/rfile2', function (err) {
         if (err) {
           throw err;
