@@ -1,5 +1,5 @@
 var Not = require('./notify');
-fsmonitor = require('fsmonitor');
+var fsmonitor = require('fsmonitor');
 var winston = require('./winston');
 var fs = require('fs.extra');
 
