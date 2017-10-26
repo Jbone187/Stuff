@@ -18,13 +18,10 @@ fsmonitor.watch('\wtest', null, function(change) {
     console.log("Modified folders: %j", change.modifiedFolders);
     console.log("Removed folders:  %j", change.removedFolders);
 
-//Run Associated Modules
+//Run Associated Module
     Not();
  
-   
-   
-   
-    //Copy Files
+              //Copy Files
    /* fs.copyRecursive('/nodetest/wtest', '/nodetest/rfile2', function (err) {
         if (err) {
           throw err;
@@ -33,18 +30,10 @@ fsmonitor.watch('\wtest', null, function(change) {
         console.log("Copied");
       });
     */
-  
-  
-  
-  
-  
-  
-    } else {
+   } else {
          console.log("Error");
     };
 });
-
-
 
 
 var monitor = fsmonitor.watch('.', {
