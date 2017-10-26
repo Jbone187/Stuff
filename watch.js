@@ -3,6 +3,7 @@ var fsmonitor = require('fsmonitor');
 var winston = require('./winston');
 var fs = require('fs.extra');
 
+//Folder Name you want to Watch Example "wtest"
 fsmonitor.watch('\wtest', null, function(change) {
 
        if (typeof change === "object") {
