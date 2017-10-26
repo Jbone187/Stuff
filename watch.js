@@ -24,7 +24,7 @@ fsmonitor.watch('\wtest', null, function(change) {
    
    
    
-    //Copy file Code
+    //Copy Files
     fs.copyRecursive('/nodetest/wtest', '/nodetest/rfile2', function (err) {
         if (err) {
           throw err;
