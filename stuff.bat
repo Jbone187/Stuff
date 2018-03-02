@@ -1,5 +1,0 @@
-pause
-
-node watch
-
-pause
