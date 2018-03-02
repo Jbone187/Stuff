@@ -5,7 +5,7 @@ module.exports = function () {
   // String
   notifier.notify('Folder Was Updated');
 
-  /* Object
+  /*  Can add Object
   notifier.notify({
     'title': 'JBone',
     'subtitle': 'Daily Maintenance',
