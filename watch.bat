@@ -1,5 +1,5 @@
 pause
-cd c:\fwatch
+cd c:\fwatch\watch
 node watch
 
 pause
