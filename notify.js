@@ -7,7 +7,7 @@ module.exports = function () {
 
   /*  Can add Object
   notifier.notify({
-    'title': 'JBone',
+    'title': 'Folder Watch',
     'subtitle': 'Daily Maintenance',
     'message': 'You need to do better',
     'icon': 'dwb-logo.png',
