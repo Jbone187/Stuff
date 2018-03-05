@@ -3,5 +3,5 @@
 3. Open powershell and cd:\fwatch and run "npm init"
 4. Create folder named "wfolder" on c:/ to be watched
 
-Optional
+Optional:
 To change diretory you will need to update the watch.js file and the fsmonitor function "Must be on local drive"
