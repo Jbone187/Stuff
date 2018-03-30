@@ -25,9 +25,6 @@ fsmonitor.watch('c:/wfolder', null, function (change) {
     };
 });
 
-
-
-
 let monitor = fsmonitor.watch('.', {
     // include files
     matches: function (relpath) {
