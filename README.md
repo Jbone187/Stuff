@@ -1,3 +1,5 @@
+"Program has the ability to watch a folder on windows 10, notify and logs for the user"
+
 1. Download and install nodejs
 2. Create fwatch folder on c:\ and add all files.
 3. Open powershell and cd:\fwatch and run "npm init"
