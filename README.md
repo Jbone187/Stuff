@@ -1,4 +1,4 @@
-"Program has the ability to watch a folder on windows 10, notify and logs for the user"
+"Program has the ability to watch a folder on windows 10, notify and log."
 
 1. Download and install nodejs
 2. Create fwatch folder on c:\ and add all files.
